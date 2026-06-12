@@ -14,7 +14,7 @@
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in/Ghana khyathi kamlekari/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ghana-khyathi-kamlekari-2872b0380/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <br><br>
 
