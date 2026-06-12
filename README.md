@@ -7,7 +7,9 @@
 - 🎓 I’m currently pursuing a Degree.<br>
 - 💻 I’m interested in Software Development and Technology.<br>
 - 🚀 I’m continuously practicing coding and building my skills.<br>
-- 🎯 I’m looking for opportunities to gain practical experience through projects and internships.<br>- 📫 How to reach me: ... ghanakhyathikamlekari@gmail.com
+- 🎯 I’m looking for opportunities to gain practical experience through projects and internships.<br>
+- 📫 How to reach me: ghanakhyathikamlekari@gmail.com
+
 
 
 
