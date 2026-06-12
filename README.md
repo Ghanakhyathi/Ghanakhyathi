@@ -1,24 +1,35 @@
 # Hey Everyone! I'm [Ghana khyathi kamlekari](https://github.com/Ghanakhyathi) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
-# 💫 About Me:
-- 🔭 I’m currently working on ... a freelance Python Trainer at Pythonlife <br>- 🌱 I’m currently learning ... Typescript. <br>- 👯  I’ve successfully trained 1000+ students in Python programming, covering everything from basics to advanced concepts. I specialize in providing study materials, hands-on tasks, and interview preparation resources to ensure effective and practical learning..<br>- 💬 Ask me about ...Python programming: Basics to advanced concepts.
-Tips and strategies for mastering Python.
-Practical approaches to task-based learning in programming.
-How to effectively prepare for Python programming interviews.
-My experience in freelancing and training over 1000+ students..<br>- 📫 How to reach me: ... ghanakhyathikamlekari@gmail.com
+## 🙋‍♀️ About Me
+
+- 🌱 I’m currently learning Python and improving my programming skills.<br>
+- 🎓 I’m currently pursuing a Degree.<br>
+- 💻 I’m interested in Software Development and Technology.<br>
+- 🚀 I’m continuously practicing coding and building my skills.<br>
+- 🎯 I’m looking for opportunities to gain practical experience through projects and internships.<br>- 📫 How to reach me: ... ghanakhyathikamlekari@gmail.com
 
 
 
 ## 🌐 Socials:
-<a href="https://www.linkedin.com/in//"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/Ghana khyathi kamlekari/"><img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <br><br>
 
 
 
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) 
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=plastic&logo=pandas&logoColor=white)
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=plastic)
+![Python OOP](https://img.shields.io/badge/Python%20OOP-3776AB?style=plastic&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)
 
 # ⚡ Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vasukumar3&show_icons=true&locale=en" alt="Vasukumar3" /></p>
