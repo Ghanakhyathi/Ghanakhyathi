@@ -1,4 +1,4 @@
-# Hey Everyone! I'm [Ghana khyathi kamlekari](https://github.com/Ghanakhyathi) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
+# Hey Everyone! I'm [Ghanakhyathi](https://github.com/Ghanakhyathi) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 
 ## 🙋‍♀️ About Me
